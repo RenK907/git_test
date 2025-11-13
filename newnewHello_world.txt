@@ -1,1 +1,4 @@
 this is a test of my git set up and a refresher on command line use since i'm now on mac. not muc different to learn.
+
+
+This was added inside sublime text, my much prefered text editor, especially for web dev use.
